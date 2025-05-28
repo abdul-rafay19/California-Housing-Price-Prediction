@@ -67,3 +67,32 @@ This project demonstrates:
 
 ### 📌 Evaluation Metric:
 - Root Mean Squared Error (RMSE) using 10-fold Cross-Validation
+
+---
+
+## 👨‍💻 Developed By
+
+**Abdul Rafay**  
+📚 BS Software Engineering | 🎯 AI & ML Enthusiast   
+🔗 [LinkedIn](https://www.linkedin.com/in/abdul-rafay19)
+
+---
+
+## 📜 License
+
+This repository is licensed under the **MIT License**.
+
+---
+
+## 🌟 Support & Contribution
+
+If you found this helpful:
+
+- ⭐ Star the repo  
+- 🍴 Fork it and contribute  
+- 📢 Share on LinkedIn and tag me!  
+
+---
+
+> 🔍 Accurate detection. 🎯 Precise segmentation. 🚀 Built with passion.
+
